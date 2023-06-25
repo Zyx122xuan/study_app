@@ -1,0 +1,108 @@
+{
+    "id": "ppr002",
+    "title": "化学",
+    "image_url": "",
+    "Description": "基础化学多项选择题 (MCQ)，用于练习基本化学测验答案",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ppr002q001",
+            "question": "碳的化学符号是什么？",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "C"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Ca"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Cn"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Crn"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr002q002",
+            "question": "键合在一起的分子组成原子。",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "正确"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "错误"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr002q003",
+            "question": "当我们将醋和小苏打混合并产生二氧化碳时，产物是什么？",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "醋"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "二氧化碳和小苏打"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "二氧化碳"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "醋和小苏打"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr002q004",
+            "question": "下列哪一个是电流单位：",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "ohm"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "volt"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "watt"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "amp"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr002q005",
+            "question": "在化学反应或变化中不会产生新物质。",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "正确"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "错误"
+                }
+            ],
+            "correct_answer": "B"
+        }
+    ]
+}

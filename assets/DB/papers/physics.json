@@ -1,0 +1,125 @@
+{
+    "id": "ppr001",
+    "title": "物理",
+    "image_url": "",
+    "Description": "基础物理多项选择题 (MCQ) 用于练习基本物理测验答案",
+    "time_seconds": 900,
+    
+    "questions": [
+        {
+            "id": "ppr001q001",
+            "question": "下列哪一项是电的良导体？",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "草"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "人体"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "硬橡胶"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "虫胶"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q002",
+            "question": "以下哪一项的能量最大？",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "黄光"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "绿光"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "紫光"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "红光"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr001q003",
+            "question": "用棍子敲打地毯来清洁地毯的行为涉及哪条定律？",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "运动第一定律"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "运动第二定律"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "质量守恒定律"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "能量守恒定律"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr001q004",
+            "question": "下列哪一个是电流单位：",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "ohm"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "volt"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "watt"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "amp"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "当一个物体在运动时，它的（    ）必须改变？",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "形状"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "大小"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "加速度"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "位置"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}

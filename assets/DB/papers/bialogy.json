@@ -1,0 +1,124 @@
+{
+    "id": "ppr004",
+    "title": "生物",
+    "image_url": "",
+    "Description": "基础生物多项选择题 (MCQ)，用于练习基本生物测验答案",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ppr004q001",
+            "question": "一种动物狩猎、杀死并吃掉另一种动物的关系：",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "共生"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "互利"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "寄生"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "捕食"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr004q002",
+            "question": "为食物而被猎杀的动物：",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "分解者"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "捕食者"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "清道夫"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "猎物"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr004q003",
+            "question": "共同生活的两种不同物种的生物之间的密切关系：",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "互利"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "共生"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "竞争"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "共生主义"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr004q004",
+            "question": "两种物种都受益的共生关系：",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "互惠主义"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "共生主义"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "寄生"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "捕食"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "大多数植物、一些细菌和一些原生生物中都存在哪种细胞器？",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "核糖体"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "线粒体"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "内质网"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "叶绿体"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}

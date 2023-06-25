@@ -1,0 +1,124 @@
+{
+    "id": "ppr003",
+    "title": "数学",
+    "image_url": "",
+    "Description": "基础数学多项选择题 (MCQ)，用于练习基本数学测验答案",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ppr003q001",
+            "question": "珍娜有 82 个苹果。 她给了山姆 28 个苹果。 珍娜现在有多少个苹果？",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "45"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "108"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "54"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "37"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr003q002",
+            "question": "麦克斯和比利去了农场！ 麦克斯收集了 18 个鸡蛋，比利收集了 29 个鸡蛋。 他们总共收集了多少个鸡蛋。",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "74"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "22"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "80"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "47"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr003q003",
+            "question": "2/10 +15/100 等于多少？",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "17"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "35/100"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "30/100"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "17/100"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr003q004",
+            "question": "2,340 比 234 大多少倍？",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "20倍"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "100倍"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "10倍"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "1倍"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr003q005",
+            "question": "四边形有多少条边？",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "5"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "3"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "2"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "4"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}
